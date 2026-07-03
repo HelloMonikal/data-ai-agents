@@ -1,0 +1,8 @@
+.env
+.venv
+memory_db/
+history.json
+history_backup.json
+__pycache__/
+*.pyc
+venv/

@@ -1,0 +1,21 @@
+order_id,date,product,category,quantity,unit_price,revenue,region,sales_rep
+1001,2024-01-05,Widget A,Electronics,10,99.99,999.90,North,Alice
+1002,2024-01-06,Widget B,Electronics,5,149.99,749.95,South,Bob
+1003,2024-01-07,Gadget X,Accessories,,29.99,,East,Carol
+1004,2024-01-08,Widget A,Electronics,3,99.99,299.97,North,
+1005,2024-01-09,Gadget Y,Accessories,8,49.99,399.92,West,Alice
+1006,2024-01-10,Widget C,,15,199.99,2999.85,South,Bob
+1007,2024-01-11,Gadget X,Accessories,2,29.99,59.98,,Carol
+1008,2024-01-12,Widget B,Electronics,7,149.99,1049.93,North,Alice
+1009,2024-01-13,,Electronics,4,99.99,399.96,East,Bob
+1010,2024-01-14,Widget A,Electronics,12,99.99,1199.88,South,Carol
+1011,2024-01-15,Gadget Z,Accessories,,79.99,,West,
+1012,2024-01-16,Widget C,Electronics,20,199.99,3999.80,North,Alice
+1013,2024-01-17,Widget B,Electronics,1,149.99,149.99,South,Bob
+1014,,Widget A,Electronics,6,99.99,599.94,East,Carol
+1015,2024-01-19,Gadget X,Accessories,9,29.99,269.91,West,Alice
+1016,2024-01-20,Widget C,Electronics,11,199.99,2199.89,North,Bob
+1017,2024-01-21,Gadget Y,Accessories,3,49.99,149.97,,Carol
+1018,2024-01-22,Widget A,Electronics,8,99.99,799.92,South,Alice
+1019,2024-01-23,Widget B,,5,149.99,749.95,East,Bob
+1020,2024-01-24,Gadget Z,Accessories,14,79.99,1119.86,West,Carol
